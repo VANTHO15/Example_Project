@@ -1,1 +1,3 @@
 - Document: https://docs.google.com/document/d/1yZ5SEnxQv2EUOGi8uOjP3hGErUCW1EAaw2uJUkUtxBA/edit?usp=sharing
+- Template not ok: https://drive.google.com/file/d/1bfcVh4vSX1A7QflZVnHnboHneT7PHtWv/view?usp=sharing
+- Example OK:
